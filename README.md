@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sav-eng
+- 👋 Hi, I’m @Sav-eng (Thanathai Lertpetchpun)
 - 👀 I’m interested in speech processing specidically in speaker verification
 - 🌱 I’m currently studying a forth year computer engineering @ Chulalongkorn University
 - 💞️ I’m looking to collaborate on doing research in speech processing
