@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sav-eng (Thanathai Lertpetchpun)
 - 👀 I’m interested in speech processing specifically in speaker recognition
-- 🌱 I have just graduated in Bachelor degree from computer engineering @ Chulalongkorn University
+- 🌱 I have just graduated from computer engineering @ Chulalongkorn University
 - 💞️ I’m looking for a collaboration on doing research in speech processing
 - 📫 thanathai.lertpetchpun@gmail.com
 
