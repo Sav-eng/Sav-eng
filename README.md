@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sav-eng (Thanathai Lertpetchpun)
-- 👀 I’m interested in speech processing specifically in speaker recognition and voice anti-spoofing.
-- 🌱 1st year Phd Student @ USC SAIL
+- 👀 I’m interested in speech processing -- speech emotion recognition, speaker verification, anti-spoofing, text-to-speech, and voice conversion.
+- 🌱 2nd year Phd Student @ USC SAIL
 - 📫 lertpetc@usc.edu
 
 <!---
